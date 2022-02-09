@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inicio {
+    display: flex;
+}
+
+.frida {
+    width: 50%;
+    height: 100%;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 7vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: -15vh;
+
+}
